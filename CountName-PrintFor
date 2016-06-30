@@ -1,0 +1,20 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+#
+
+
+# Pide que se ingrese el nombre
+nombre = input("Ingrese su nombre: ")
+
+# Obtiene la cantidad de letras
+letras = len(nombre)
+
+print("Se escribira", letras, "el nombre.")
+
+# Repite el nombre cuantas letras tenga el mismo
+for i in range(letras):
+	print(nombre)
+	
+	
+	
+    
