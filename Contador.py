@@ -1,5 +1,5 @@
 from tkinter import *
-import sqlite3
+
 
 
 class ventana:
